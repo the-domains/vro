@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Cars Toys Movies
-    url: 'https://www.youtube.com/user/carstoysmovies'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+datePublished: '2016-08-23T18:08:57.346Z'
+sourcePath: >-
+  _posts/2016-08-23-disneypixar-castle-frozen-princess-elsa-let-it-go-song-or-an.md
+isBasedOnUrl: 'https://youtu.be/tVYECF0HpEA'
 keywords:
   - elsa
   - spiderman
@@ -20,12 +14,16 @@ keywords:
   - views
   - anna
   - maleficent
-description: >-
-  Next Movie: https://youtu.be/4VR7KKvMz_Q Elsa Frozen Princess wakes from her
-  castle in the morning and sing Let It Go. Anna calls Elsa asking about Olaf,
-  If he's ok. They both dont know there are 2 sides to Olaf. Subscribe * Like *
-  Comment http://www.youtube.com/subscription_center?add_user=CarsToysMovies
-inLanguage: en
+related: []
+author:
+  - name: Cars Toys Movies
+    url: 'https://www.youtube.com/user/carstoysmovies'
+    avatar: {}
+via: {}
+dateModified: '2016-08-23T18:08:57.022Z'
+title: >-
+  Disney/Pixar CASTLE Frozen Princess Elsa Let-It-Go song | Anna Olaf Ice
+  Monster Cars Toys Movies
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=tVYECF0HpEA&feature=applinks'
     type: ios
@@ -63,21 +61,21 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/tVYECF0HpEA'
-title: >-
-  Disney/Pixar CASTLE Frozen Princess Elsa Let-It-Go song | Anna Olaf Ice
-  Monster Cars Toys Movies
-datePublished: '2016-08-23T17:33:32.275Z'
-dateModified: '2016-08-23T17:33:05.817Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+description: Frozen Princess Elsa Let-It-Go song
+inLanguage: en
 starred: false
-sourcePath: >-
-  _posts/2016-08-23-disneypixar-castle-frozen-princess-elsa-let-it-go-song-or-an.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
+Frozen Princess Elsa Let-It-Go song
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtVYECF0HpEA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtVYECF0HpEA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtVYECF0HpEA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>

@@ -1,4 +1,3 @@
-layout_spectrum: 0.006446950603276491
 typography_spectrum: 0.19727256032638252
 color:
   brandStrength: 0.700991784920916
@@ -11,4 +10,8 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-name: vro
+opengraph:
+  appId: www.facebook.com/carstoysmovies
+layout_spectrum: 0.006446950603276491
+name: CarsToysMovies
+title: Disney Parody

@@ -64,18 +64,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/x6NLX7CWmZ8'
 title: >-
   Disney/Pixar Cars 3 - BREAKING NEWS Mack Hauler's leading role | Lightning
   McQueen & Minions Dave
-datePublished: '2016-08-26T10:24:06.854Z'
-dateModified: '2016-08-26T10:22:06.511Z'
+datePublished: '2016-08-26T10:46:28.591Z'
+dateModified: '2016-08-26T10:46:28.089Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-26-disneypixar-cars-3-breaking-news-mack-haulers-leading-ro.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: disneypixar-cars-3-breaking-news-mack-haulers-leading-ro/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

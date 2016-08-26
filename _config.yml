@@ -14,4 +14,10 @@ opengraph:
   appId: www.facebook.com/carstoysmovies
 layout_spectrum: 0.006446950603276491
 name: CarsToysMovies
+navigation:
+  - name: >-
+      Disney/Pixar Cars 3 - BREAKING NEWS Mack Hauler's leading role | Lightning
+      McQueen & Minions Dave
+    id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
+    type: content
 title: Disney Movies

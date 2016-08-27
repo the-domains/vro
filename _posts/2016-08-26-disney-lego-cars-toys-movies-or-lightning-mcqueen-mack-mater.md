@@ -1,34 +1,32 @@
 ---
+datePublished: '2016-08-27T04:50:31.700Z'
+sourcePath: >-
+  _posts/2016-08-26-disney-lego-cars-toys-movies-or-lightning-mcqueen-mack-mater.md
+hasPage: true
+keywords: []
+related: []
 author:
   - name: Cars Toys Movies
     url: 'https://www.youtube.com/user/carstoysmovies'
     avatar: {}
-related: []
+via: {}
+dateModified: '2016-08-27T04:50:31.292Z'
+title: >-
+  DISNEY-LEGO Cars Toys Movies | Lightning McQueen Mack Mater | Spiderman Batman
+  Joker
+app_links: []
 publisher:
   url: 'https://www.youtube.com/'
   name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: youtu.be
-keywords: []
-description: >-
-  Next Movie: https://youtu.be/kLAnVd5y7M4 MOVIE MARATHON 4 Movies in 1 Dance
-  Machine, Minecraft, Hero's and Villains School, Stink Machine. 1. Dance
-  Machine 0:06 2. Minecraft 2:42 3. Hero's and Villains School 4:52 4. Stink
-  Machine 6:52 MOVIE MARATHON - LEGO MOVIE - DISNEY CARS TOYS MOVIES 1.
-app_links: []
-title: >-
-  DISNEY-LEGO Cars Toys Movies | Lightning McQueen Mack Mater | Spiderman Batman
-  Joker
-datePublished: '2016-08-27T03:59:34.420Z'
-dateModified: '2016-08-27T03:59:34.098Z'
-via: {}
-sourcePath: >-
-  _posts/2016-08-26-disney-lego-cars-toys-movies-or-lightning-mcqueen-mack-mater.md
-hasPage: true
+description: ''
 starred: false
 url: disney-lego-cars-toys-movies-or-lightning-mcqueen-mack-mater/index.html
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
+DISNEY-LEGO Cars Toys Movies | Lightning McQueen Mack Mater | Spiderman Batman Joker
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F4VR7KKvMz_Q%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4VR7KKvMz_Q&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4VR7KKvMz_Q%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>

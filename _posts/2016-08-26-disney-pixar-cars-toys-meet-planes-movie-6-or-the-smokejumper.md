@@ -1,14 +1,8 @@
 ---
-author:
-  - name: Cars Toys Movies
-    url: 'https://www.youtube.com/user/carstoysmovies'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+datePublished: '2016-08-27T05:04:17.907Z'
+sourcePath: >-
+  _posts/2016-08-26-disney-pixar-cars-toys-meet-planes-movie-6-or-the-smokejumper.md
+isBasedOnUrl: 'https://youtu.be/cR51ARV5ixo'
 keywords:
   - mcqueen
   - lightning
@@ -20,13 +14,16 @@ keywords:
   - views
   - movies
   - mater
-description: >-
-  Disney cars Lightning McQueen gets down from Mack LIFT & LAUNCH Transporter to
-  tell Mack that he is going to drive to Radiator Springs by himself.
-  Smokejumpers Drip and Avalanche are working on the road construction filling
-  the sink hole. Please | LIKE | COMMENT | SUBSCRIBE | Lightning McQueen almost
-  crashes into Avalanche because Avalanche forgot to use cones.
-inLanguage: en
+related: []
+author:
+  - name: Cars Toys Movies
+    url: 'https://www.youtube.com/user/carstoysmovies'
+    avatar: {}
+via: {}
+dateModified: '2016-08-27T05:04:17.305Z'
+title: >-
+  Disney Pixar Cars Toys meet Planes Movie 6 | The Smokejumpers | Lightning
+  McQueen Crashes
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=cR51ARV5ixo&feature=applinks'
     type: ios
@@ -64,21 +61,24 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/cR51ARV5ixo'
-title: >-
-  Disney Pixar Cars Toys meet Planes Movie 6 | The Smokejumpers | Lightning
-  McQueen Crashes
-datePublished: '2016-08-26T23:29:32.939Z'
-dateModified: '2016-08-26T10:28:48.049Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+description: >-
+  Disney cars Lightning McQueen gets down from Mack LIFT & LAUNCH Transporter to
+  tell Mack that he is going to drive to Radiator Springs by himself.
+  Smokejumpers Drip and Avalanche are working on the road construction filling
+  the sink hole. Please | LIKE | COMMENT | SUBSCRIBE | Lightning McQueen almost
+  crashes into Avalanche because Avalanche forgot to use cones.
+inLanguage: en
 starred: false
-sourcePath: >-
-  _posts/2016-08-26-disney-pixar-cars-toys-meet-planes-movie-6-or-the-smokejumper.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FcR51ARV5ixo%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcR51ARV5ixo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcR51ARV5ixo%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>

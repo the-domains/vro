@@ -39,4 +39,7 @@ navigation:
   - name: Cars Toys Movies
     id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
     type: content
+  - name: Our YouTube Page
+    url: www.youtube.com/carstoysmovies
+    type: external
 title: Disney Shorts

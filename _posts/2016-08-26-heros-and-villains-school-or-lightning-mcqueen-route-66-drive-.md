@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-08-26T23:29:47.852Z'
+datePublished: '2016-08-27T04:52:08.231Z'
+sourcePath: >-
+  _posts/2016-08-26-heros-and-villains-school-or-lightning-mcqueen-route-66-drive-.md
 isBasedOnUrl: 'https://youtu.be/ZD7mBQOjbq8'
 keywords:
   - mcqueen
@@ -18,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/carstoysmovies'
     avatar: {}
 via: {}
-dateModified: '2016-08-26T10:39:12.026Z'
+dateModified: '2016-08-27T04:52:08.008Z'
 title: >-
   HERO'S & VILLAINS SCHOOL | Lightning McQueen Route-66 Drive-in Lego Movie
   Disney Cars Toys Movies
@@ -71,8 +73,6 @@ description: >-
   & Villains School Disney Cars, Marvel Lego Movie crossover.
 inLanguage: en
 starred: false
-sourcePath: >-
-  _posts/2016-08-26-heros-and-villains-school-or-lightning-mcqueen-route-66-drive-.md
 inFeed: true
 hasPage: false
 inNav: false

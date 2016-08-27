@@ -39,7 +39,7 @@ navigation:
   - name: CarsToysMovies on YouTube
     id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
     type: content
-  - name: Our YouTube Page
+  - name: YouTube Page
     url: www.youtube.com/carstoysmovies
     type: external
   - name: Facebook Page

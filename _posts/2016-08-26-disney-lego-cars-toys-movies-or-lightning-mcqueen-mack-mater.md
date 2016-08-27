@@ -16,19 +16,17 @@ description: >-
   Machine 0:06 2. Minecraft 2:42 3. Hero's and Villains School 4:52 4. Stink
   Machine 6:52 MOVIE MARATHON - LEGO MOVIE - DISNEY CARS TOYS MOVIES 1.
 app_links: []
-isBasedOnUrl: 'https://youtu.be/4VR7KKvMz_Q'
 title: >-
   DISNEY-LEGO Cars Toys Movies | Lightning McQueen Mack Mater | Spiderman Batman
   Joker
-datePublished: '2016-08-26T23:29:53.204Z'
-dateModified: '2016-08-26T10:33:49.265Z'
+datePublished: '2016-08-27T03:59:34.420Z'
+dateModified: '2016-08-27T03:59:34.098Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-26-disney-lego-cars-toys-movies-or-lightning-mcqueen-mack-mater.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: disney-lego-cars-toys-movies-or-lightning-mcqueen-mack-mater/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

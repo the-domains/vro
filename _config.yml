@@ -42,4 +42,7 @@ navigation:
   - name: Our YouTube Page
     url: www.youtube.com/carstoysmovies
     type: external
+  - name: Facebook Page
+    url: 'https://www.facebook.com/carstoysmovies/'
+    type: external
 title: Disney Shorts

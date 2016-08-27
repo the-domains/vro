@@ -1,39 +1,8 @@
-title: ANIMATED CARTOONS
-navigation:
-  - name: CarsToysMovies on YouTube
-    id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
-    type: content
-  - name: YouTube
-    url: www.youtube.com/carstoysmovies
-    type: external
-  - name: Facebook
-    url: 'https://www.facebook.com/carstoysmovies/'
-    type: external
-  - name: Twitter
-    url: 'https://twitter.com/CarsToysMovies'
-    type: external
-  - name: >-
-      DISNEY-LEGO Cars Toys Movies | Lightning McQueen Mack Mater | Spiderman
-      Batman Joker
-    id: 69f5acb4-e10c-46ec-8497-3fc259e2243c
-    type: content
-opengraph:
-  appId: www.facebook.com/carstoysmovies
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+typography_spectrum: 0.19727256032638252
 color:
-  saturation: 0.5943346868734807
   brandStrength: 0.700991784920916
+  lightness: 0.8817893010564148
+  saturation: 0.5943346868734807
   rhythmicContrast: 0.009492704644799232
   brandColors:
     - '#000000'
@@ -41,8 +10,8 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  lightness: 0.8817893010564148
-typography_spectrum: 0.2759857
+opengraph:
+  appId: www.facebook.com/carstoysmovies
 layout_spectrum: 0.006446950603276491
 analytics:
   google: '54801532'
@@ -66,3 +35,22 @@ analytics:
     complete subscription, sign up for a service) fbq('track',
     'CompleteRegistration');  // Other //  fbq('track', 'Other');
 name: CarsToysMovies
+navigation:
+  - name: CarsToysMovies
+    id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
+    type: content
+  - name: YouTube
+    url: www.youtube.com/carstoysmovies
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/carstoysmovies/'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/CarsToysMovies'
+    type: external
+  - name: >-
+      DISNEY-LEGO Cars Toys Movies | Lightning McQueen Mack Mater | Spiderman
+      Batman Joker
+    id: 69f5acb4-e10c-46ec-8497-3fc259e2243c
+    type: content
+title: ANIMATED CARTOONS

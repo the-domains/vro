@@ -1,18 +1,50 @@
-layout_spectrum: 0.9410902373492718
-typography_spectrum: 0.8187175486236811
-color:
-  brandStrength: 0.06669136672280729
-  lightness: 0.47842850163578987
-  saturation: 0.004377233562991023
-  rhythmicContrast: 0.8147937166504562
-  brandColors:
-    - '#CC291A'
-    - '#000100'
-    - '#FD7119'
-    - '#FEDE00'
-    - '#ECE0E2'
+title: ANIMATED CARTOONS
+name: CarsToysMovies
 opengraph:
   appId: www.facebook.com/carstoysmovies
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5943346868734807
+  brandStrength: 0.700991784920916
+  rhythmicContrast: 0.009492704644799232
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  lightness: 0.8817893010564148
+typography_spectrum: 0.1129032
+navigation:
+  - name: CarsToysMovies
+    id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
+    type: content
+  - name: YouTube
+    url: www.youtube.com/carstoysmovies
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/carstoysmovies/'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/CarsToysMovies'
+    type: external
+  - name: >-
+      DISNEY-LEGO Cars Toys Movies | Lightning McQueen Mack Mater | Spiderman
+      Batman Joker
+    id: 69f5acb4-e10c-46ec-8497-3fc259e2243c
+    type: content
+layout_spectrum: 0.7293907
 analytics:
   google: '54801532'
   facebook: >-
@@ -34,23 +66,3 @@ analytics:
     CompleteRegistration // Track when a registration form is completed (ex.
     complete subscription, sign up for a service) fbq('track',
     'CompleteRegistration');  // Other //  fbq('track', 'Other');
-name: CarsToysMovies
-navigation:
-  - name: CarsToysMovies
-    id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
-    type: content
-  - name: YouTube
-    url: www.youtube.com/carstoysmovies
-    type: external
-  - name: Facebook
-    url: 'https://www.facebook.com/carstoysmovies/'
-    type: external
-  - name: Twitter
-    url: 'https://twitter.com/CarsToysMovies'
-    type: external
-  - name: >-
-      DISNEY-LEGO Cars Toys Movies | Lightning McQueen Mack Mater | Spiderman
-      Batman Joker
-    id: 69f5acb4-e10c-46ec-8497-3fc259e2243c
-    type: content
-title: ANIMATED CARTOONS

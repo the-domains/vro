@@ -36,7 +36,7 @@ analytics:
     'CompleteRegistration');  // Other //  fbq('track', 'Other');
 name: CarsToysMovies
 navigation:
-  - name: Cars Toys Movies
+  - name: CarsToysMovies on YouTube
     id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
     type: content
   - name: Our YouTube Page

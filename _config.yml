@@ -42,7 +42,7 @@ navigation:
   - name: YouTube Page
     url: www.youtube.com/carstoysmovies
     type: external
-  - name: Facebook Page
+  - name: Facebook
     url: 'https://www.facebook.com/carstoysmovies/'
     type: external
   - name: Twitter

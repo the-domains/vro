@@ -45,4 +45,7 @@ navigation:
   - name: Facebook Page
     url: 'https://www.facebook.com/carstoysmovies/'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/CarsToysMovies'
+    type: external
 title: Disney Shorts

@@ -1,3 +1,16 @@
+layout_spectrum: 0.3732661467511207
+typography_spectrum: 0.09915237384848297
+color:
+  saturation: 0.3426879502367228
+  brandStrength: 0.8062537147197872
+  rhythmicContrast: 0.7207610153127462
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  lightness: 0.6047310288995504
 title: ANIMATED CARTOONS
 name: CarsToysMovies
 opengraph:
@@ -14,18 +27,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.5943346868734807
-  brandStrength: 0.700991784920916
-  rhythmicContrast: 0.009492704644799232
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  lightness: 0.8817893010564148
-typography_spectrum: 0.1129032
 navigation:
   - name: CarsToysMovies
     id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
@@ -65,4 +66,3 @@ analytics:
     CompleteRegistration // Track when a registration form is completed (ex.
     complete subscription, sign up for a service) fbq('track',
     'CompleteRegistration');  // Other //  fbq('track', 'Other');
-layout_spectrum: 1

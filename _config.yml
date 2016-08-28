@@ -1,3 +1,16 @@
+layout_spectrum: 0.7293907
+typography_spectrum: 0.9919687218498439
+color:
+  saturation: 0.6631493542809039
+  brandStrength: 0.12638108851388097
+  rhythmicContrast: 0.7554212757386267
+  brandColors:
+    - '#CC291A'
+    - '#000100'
+    - '#FD7119'
+    - '#FEDE00'
+    - '#ECE0E2'
+  lightness: 0.783342823619023
 title: ANIMATED CARTOONS
 name: CarsToysMovies
 opengraph:
@@ -14,18 +27,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5943346868734807
-  brandStrength: 0.700991784920916
-  rhythmicContrast: 0.009492704644799232
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  lightness: 0.8817893010564148
-typography_spectrum: 0.1129032
 navigation:
   - name: CarsToysMovies
     id: da1e6fbd-64e1-4b30-a76d-c656d4cdd46a
@@ -44,7 +45,6 @@ navigation:
       Batman Joker
     id: 69f5acb4-e10c-46ec-8497-3fc259e2243c
     type: content
-layout_spectrum: 0.7293907
 analytics:
   google: '54801532'
   facebook: >-

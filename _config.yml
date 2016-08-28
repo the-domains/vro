@@ -1,16 +1,16 @@
-layout_spectrum: 0.3732661467511207
-typography_spectrum: 0.09915237384848297
+layout_spectrum: 0.516085394192487
+typography_spectrum: 0.19721090141683817
 color:
-  saturation: 0.3426879502367228
-  brandStrength: 0.8062537147197872
-  rhythmicContrast: 0.7207610153127462
+  saturation: 0.3260670399758965
+  brandStrength: 0.7407498008105904
+  rhythmicContrast: 0.10685289581306279
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
-  lightness: 0.6047310288995504
+    - '#CC291A'
+    - '#000100'
+    - '#FD7119'
+    - '#FEDE00'
+    - '#ECE0E2'
+  lightness: 0.5588544486090541
 title: ANIMATED CARTOONS
 name: CarsToysMovies
 opengraph:

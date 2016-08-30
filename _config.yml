@@ -1,18 +1,18 @@
-typography_spectrum: 0.19721090141683817
+layout_spectrum: 0.8971767812035978
+typography_spectrum: 0.2682868947740644
 color:
-  saturation: 0.3260670399758965
-  brandStrength: 0.7407498008105904
-  rhythmicContrast: 0.10685289581306279
+  saturation: 0.5814693414140493
+  brandStrength: 0.3357680318877101
+  rhythmicContrast: 0.043749077944085
   brandColors:
     - '#CC291A'
     - '#000100'
     - '#FD7119'
     - '#FEDE00'
     - '#ECE0E2'
-  lightness: 0.5588544486090541
+  lightness: 0.7255530741531402
 opengraph:
   appId: www.facebook.com/carstoysmovies
-layout_spectrum: 0.516085394192487
 analytics:
   google: '54801532'
   facebook: >-

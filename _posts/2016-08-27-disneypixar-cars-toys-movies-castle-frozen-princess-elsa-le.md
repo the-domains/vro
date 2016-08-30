@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T04:48:32.038Z'
+datePublished: '2016-08-28T19:02:57.404Z'
 sourcePath: >-
   _posts/2016-08-27-disneypixar-cars-toys-movies-castle-frozen-princess-elsa-le.md
 inFeed: true
@@ -21,7 +21,7 @@ author:
     url: 'https://www.youtube.com/user/carstoysmovies'
     avatar: {}
 via: {}
-dateModified: '2016-08-27T04:48:31.746Z'
+dateModified: '2016-08-28T19:02:56.639Z'
 title: Elsa Castle - Let it go
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=tVYECF0HpEA&feature=applinks'
@@ -80,3 +80,5 @@ _type: VideoObject
 > Princess Elsa, Anna, Olaf-IceMonster
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtVYECF0HpEA%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtVYECF0HpEA&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtVYECF0HpEA%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7155ac3-e8b1-497e-81a3-aecafdf76b3f.jpg)

@@ -1,4 +1,3 @@
-layout_spectrum: 0.9252491386141628
 typography_spectrum: 0.31315142079256475
 color:
   saturation: 0.24745556339621544
@@ -13,6 +12,7 @@ color:
   lightness: 0.13774014776572585
 opengraph:
   appId: www.facebook.com/carstoysmovies
+layout_spectrum: 0.9252491386141628
 analytics:
   google: '54801532'
   facebook: >-
@@ -34,6 +34,8 @@ analytics:
     CompleteRegistration // Track when a registration form is completed (ex.
     complete subscription, sign up for a service) fbq('track',
     'CompleteRegistration');  // Other //  fbq('track', 'Other');
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1648d8a2-f378-419b-96f7-bd2af6c8e1fb.png
 name: CarsToysMovies
 navigation:
   - name: CarsToysMovies
@@ -48,6 +50,8 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/CarsToysMovies'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d984468-1a48-43c8-8284-c77eeef43fba.jpg
 collections:
   - index:
       path: /

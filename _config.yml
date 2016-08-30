@@ -48,11 +48,6 @@ navigation:
   - name: Twitter
     url: 'https://twitter.com/CarsToysMovies'
     type: external
-  - name: >-
-      DISNEY-LEGO Cars Toys Movies | Lightning McQueen Mack Mater | Spiderman
-      Batman Joker
-    id: 69f5acb4-e10c-46ec-8497-3fc259e2243c
-    type: content
 collections:
   - index:
       path: /

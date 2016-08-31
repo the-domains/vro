@@ -1,4 +1,3 @@
-layout_spectrum: 0.555502891773358
 typography_spectrum: 0.7105569920968264
 color:
   saturation: 0.11391446995548904
@@ -13,6 +12,7 @@ color:
   lightness: 0.3036150159314275
 opengraph:
   appId: www.facebook.com/carstoysmovies
+layout_spectrum: 0.555502891773358
 analytics:
   google: '54801532'
   facebook: >-
@@ -38,7 +38,7 @@ author:
   email: carstoysmovies@gmail.com
   url: www.youtube.com/carstoysmovies
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1648d8a2-f378-419b-96f7-bd2af6c8e1fb.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4716ba6-5785-4709-b364-b9bbf22e4337.png
 name: CarsToysMovies
 navigation:
   - name: CarsToysMovies

@@ -67,5 +67,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: CARTOONS
 description: '"where cars come alive"'

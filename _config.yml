@@ -54,7 +54,7 @@ navigation:
     url: 'https://twitter.com/CarsToysMovies'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d984468-1a48-43c8-8284-c77eeef43fba.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e260485-44a6-4072-9f37-3908d8bfda6f.png
 collections:
   - index:
       path: /

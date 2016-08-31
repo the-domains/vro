@@ -34,6 +34,9 @@ analytics:
     CompleteRegistration // Track when a registration form is completed (ex.
     complete subscription, sign up for a service) fbq('track',
     'CompleteRegistration');  // Other //  fbq('track', 'Other');
+author:
+  email: carstoysmovies@gmail.com
+  url: www.youtube.com/carstoysmovies
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1648d8a2-f378-419b-96f7-bd2af6c8e1fb.png
 name: CarsToysMovies
@@ -64,5 +67,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: CarsToysMovies
+title: ''
 description: '"where cars come alive"'

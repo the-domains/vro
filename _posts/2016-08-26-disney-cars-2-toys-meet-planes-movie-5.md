@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Cars Toys Movies
-    url: 'https://www.youtube.com/user/carstoysmovies'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+datePublished: '2016-08-31T22:58:20.083Z'
+sourcePath: _posts/2016-08-26-disney-cars-2-toys-meet-planes-movie-5.md
+isBasedOnUrl: 'https://youtu.be/LrxfzJ649vQ'
 keywords:
   - toys
   - disney
@@ -20,14 +13,14 @@ keywords:
   - crophopper
   - views
   - lightning
-description: >-
-  NEXT: https://youtu.be/waSd-8O-9yU Dusty Crophopper Finally arrives at
-  Radiator Springs he asks Luigi and Guido to fix his broken wheel. PLEASE
-  SUBSCRIBE, LIKE AND COMMENT... :)
-  http://www.youtube.com/subscription_center?add_user=CarsToysMovies MORE MOVIES
-  COMING SOON!!!!!! Cars Toys Used in Movie: Dusty Crophopper Mack Luigi Guido
-  Lewis Hamilton 5.
-inLanguage: en
+related: []
+author:
+  - name: Cars Toys Movies
+    url: 'https://www.youtube.com/user/carstoysmovies'
+    avatar: {}
+via: {}
+dateModified: '2016-08-31T22:58:19.683Z'
+title: Disney Cars 2 Toys meet Planes Movie 5
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=LrxfzJ649vQ&feature=applinks'
     type: ios
@@ -65,18 +58,25 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/LrxfzJ649vQ'
-title: Disney Cars 2 Toys meet Planes Movie 5
-datePublished: '2016-08-26T23:29:31.040Z'
-dateModified: '2016-08-26T10:28:22.775Z'
-via: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtu.be
+description: >-
+  NEXT: https://youtu.be/waSd-8O-9yU Dusty Crophopper Finally arrives at
+  Radiator Springs he asks Luigi and Guido to fix his broken wheel. PLEASE
+  SUBSCRIBE, LIKE AND COMMENT... :)
+  http://www.youtube.com/subscription_center?add_user=CarsToysMovies MORE MOVIES
+  COMING SOON!!!!!! Cars Toys Used in Movie: Dusty Crophopper Mack Luigi Guido
+  Lewis Hamilton 5.
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-26-disney-cars-2-toys-meet-planes-movie-5.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FLrxfzJ649vQ%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLrxfzJ649vQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLrxfzJ649vQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>

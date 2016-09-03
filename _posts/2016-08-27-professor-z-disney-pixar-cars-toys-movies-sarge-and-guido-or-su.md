@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T04:49:25.001Z'
+datePublished: '2016-08-31T22:52:10.819Z'
 sourcePath: >-
   _posts/2016-08-27-professor-z-disney-pixar-cars-toys-movies-sarge-and-guido-or-su.md
 isBasedOnUrl: 'https://youtu.be/V9-7ZtFUbcY'
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/carstoysmovies'
     avatar: {}
 via: {}
-dateModified: '2016-08-27T04:49:24.593Z'
+dateModified: '2016-08-31T22:52:10.490Z'
 title: >-
   PROFESSOR Z Disney Pixar Cars Toys Movies Sarge & Guido | Super Villain Chase
   Race

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T22:57:28.817Z'
+datePublished: '2016-09-01T08:20:20.331Z'
 sourcePath: _posts/2016-08-24-disney-pixar-cars-story-sets-action.md
 isBasedOnUrl: 'https://youtu.be/7-P4p4a4yLA'
 keywords: []
@@ -9,11 +9,11 @@ author:
     url: 'https://www.youtube.com/user/carstoysmovies'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T22:57:28.406Z'
+dateModified: '2016-09-01T08:20:19.977Z'
 title: Disney Pixar CARS - Story Sets ACTION !
 app_links: []
 publisher:
-  url: 'https://www.youtube.com/'
+  url: 'https://www.youtube.com/carstoysmovies'
   name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: youtu.be

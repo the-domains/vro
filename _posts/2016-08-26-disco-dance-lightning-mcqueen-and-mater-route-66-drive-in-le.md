@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T04:55:31.414Z'
+datePublished: '2016-08-31T22:52:31.706Z'
 sourcePath: >-
   _posts/2016-08-26-disco-dance-lightning-mcqueen-and-mater-route-66-drive-in-le.md
 isBasedOnUrl: 'https://youtu.be/TRmQgc61Zj0'
@@ -10,7 +10,7 @@ author:
     url: 'https://www.youtube.com/user/carstoysmovies'
     avatar: {}
 via: {}
-dateModified: '2016-08-27T04:55:31.102Z'
+dateModified: '2016-08-31T22:52:31.053Z'
 title: >-
   Disco DANCE - Lightning McQueen & Mater Route-66 Drive-in Lego Movie Disney
   Cars Toys Movies

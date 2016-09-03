@@ -4,8 +4,15 @@
         <description><![CDATA[Disney Movie Shorts]]></description>
         <link>https://thegrid.ai/carstoysmovies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 23:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 05:56:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/carstoysmovies/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Elsa Castle - Let it go]]></title>
+            <description><![CDATA[<article><h1>Elsa Castle - Let it go</h1><p>Next Movie: https://youtu.be/4VR7KKvMz_Q Elsa Frozen Princess wakes from her castle in the morning and sing Let It Go. Anna calls Elsa asking about Olaf, If he's ok. They both dont know there are 2 sides to Olaf.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/401f8379547a6f3815acf299b2504e0d/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FtVYECF0HpEA%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/tVYECF0HpEA</link>
+            <guid isPermaLink="false">f1a975e7-cc0a-44be-8c00-c30f14684497</guid>
+            <pubDate>Thu, 01 Sep 2016 05:55:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Disney Cars meet Planes - Movie 4 Dusty Crashes into sand!! Cars Toys Movies]]></title>
             <description><![CDATA[<article><h1>Disney Cars meet Planes - Movie 4 Dusty Crashes into sand!! Cars Toys Movies</h1><p>NEXT: https://youtu.be/Ph31M6FtSfw Mater meets Dusty Crophopper: While Dusty is flying he has engine trouble causing dusty to nearly crash into Mater. Tow Mater tows Dusty out of the Kinetic Sand site and calls Mack to tow Dusty into Radiator Springs to get fixed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5d27445bfa4fe0ec8d4985f9281baef0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FHBiUN_piLV0%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/hN1osntfzmg</link>
             <guid isPermaLink="false">6a17f63f-0b54-41f7-8c5d-34847c712a0c</guid>
             <pubDate>Wed, 31 Aug 2016 22:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mater Route 66 Drive-in Lego Movie Batman & Robin vs Joker Marvel Disney Cars Toys Movies]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FXwl_HuSU5Zk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXwl_HuSU5Zk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXwl_HuSU5Zk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/Xwl_HuSU5Zk</link>
-            <guid isPermaLink="false">916436eb-c5c0-4641-b898-3b8db463d1af</guid>
-            <pubDate>Wed, 31 Aug 2016 22:52:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

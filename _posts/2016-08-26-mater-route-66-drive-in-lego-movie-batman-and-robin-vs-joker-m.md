@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T05:00:42.872Z'
+datePublished: '2016-08-31T22:52:47.568Z'
 sourcePath: >-
   _posts/2016-08-26-mater-route-66-drive-in-lego-movie-batman-and-robin-vs-joker-m.md
 isBasedOnUrl: 'https://youtu.be/Xwl_HuSU5Zk'
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/carstoysmovies'
     avatar: {}
 via: {}
-dateModified: '2016-08-27T05:00:42.204Z'
+dateModified: '2016-08-31T22:52:47.189Z'
 title: ''
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Xwl_HuSU5Zk&feature=applinks'
